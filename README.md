@@ -5,8 +5,13 @@ The repository contains a notebook for style transfer of a content and a style i
 We *recreate* a style transfer method that is outlined in the paper, [Image Style Transfer Using Convolutional Neural Networks, by Gatys](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) in PyTorch.
 The data for the style images used can be downloaded from [kaggle](https://www.kaggle.com/soumikrakshit/images-for-style-transfer), the content images are private.
 
-<img src="guanaco.png" alt="guanaco" width="800"/>
+Here are some results
 
 ![guanaco](guanaco_target.png)
+
+
 ![guanaco](picasso_guanaco_target.png)
+*Guanaco in Picasso style*
+
 ![guanaco](van_gogh_guanaco_target.png)
+*Guanaco in Van Gogh style*
